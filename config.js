@@ -17,7 +17,7 @@ global.APIs = { // API Prefix
   zekais: 'http://zekais-api.herokuapp.com',
   zeks: 'https://api.zeks.xyz',
   xnxn: 'https://xnxn-xxx.herokuapp.com',
-  free: 'https://freeapi-ismail832.herokuapp.com',
+  freeapi: 'https://freeapi-ismail832.herokuapp.com',
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
